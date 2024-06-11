@@ -1,0 +1,102 @@
+{
+  "Expenses": [
+    {
+      "id": "b48f",
+      "expenseType": "Online Payment",
+      "expenseDate": "2024-06-08",
+      "expenseAmount": "1500",
+      "description": "Electricity"
+    },
+    {
+      "id": "e0cd",
+      "expenseType": "Online Payment",
+      "expenseDate": "2024-04-24",
+      "expenseAmount": "2500",
+      "description": "Shopping"
+    },
+    {
+      "id": "73b6",
+      "expenseType": "cash",
+      "expenseDate": "2024-05-31",
+      "expenseAmount": "400",
+      "description": "Medicine"
+    },
+    {
+      "id": "ef46",
+      "expenseType": "card",
+      "expenseDate": "2024-04-23",
+      "expenseAmount": "20000",
+      "description": "Medical Expense"
+    },
+    {
+      "id": "60b3",
+      "expenseType": "card",
+      "expenseDate": "2024-03-07",
+      "expenseAmount": "250",
+      "description": "Groceries "
+    },
+    {
+      "id": "5f99",
+      "expenseType": "Online Payment",
+      "expenseDate": "2024-03-11",
+      "expenseAmount": "2000",
+      "description": "Education"
+    },
+    {
+      "id": "483c",
+      "expenseType": "card",
+      "expenseDate": "2024-05-07",
+      "expenseAmount": "15000",
+      "description": "Travel"
+    },
+    {
+      "id": "4c19",
+      "expenseType": "card",
+      "expenseDate": "2024-05-27",
+      "expenseAmount": "550",
+      "description": "Groceries"
+    },
+    {
+      "id": "89a0",
+      "expenseType": "cash",
+      "expenseDate": "2024-01-01",
+      "expenseAmount": "2000",
+      "description": "Education"
+    },
+    {
+      "id": "3b1d",
+      "expenseType": "card",
+      "expenseDate": "2024-06-02",
+      "expenseAmount": "3000",
+      "description": "Fuel"
+    },
+    {
+      "id": "2ff0",
+      "expenseType": "card",
+      "expenseDate": "2024-01-11",
+      "expenseAmount": "5000",
+      "description": "Medical"
+    },
+    {
+      "id": "a7a5",
+      "expenseType": "card",
+      "expenseDate": "2024-03-11",
+      "expenseAmount": "30000",
+      "description": "Travel"
+    },
+    {
+      "id": "0b8b",
+      "expenseType": "cash",
+      "expenseDate": "2024-03-25",
+      "expenseAmount": "5000",
+      "description": "Birthday Shopping"
+    },
+    {
+      "id": "f0d3",
+      "expenseType": "cash",
+      "expenseDate": "2024-03-15",
+      "expenseAmount": "500",
+      "description": "Fuel"
+    }
+  ]
+}
